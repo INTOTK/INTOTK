@@ -1,6 +1,6 @@
 #reload countrycolors
 
-HRE = {
+GER = {
 	color = rgb { 58 79 70 }
 	color_ui = rgb { 58 79 70 }
 }
