@@ -1,0 +1,29 @@
+
+state={
+	id=1001
+	name="STATE_1001"
+	manpower = 0
+
+	state_category = wasteland
+
+
+	history = {
+		owner = SRH
+		buildings = {
+			infrastructure = 2
+		}
+
+		victory_points = {
+			12049 1
+		}
+		victory_points = {
+			4073 1
+		}
+
+
+	}
+
+	provinces={
+		4073 12049 1155 9947
+	}
+}
