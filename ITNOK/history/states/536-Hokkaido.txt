@@ -4,13 +4,15 @@ state={
 	name="STATE_536"
 	manpower = 2812000
 
-	state_category = rural
+	state_category = city
 
 	history={
 		owner = SRH
 		add_core_of = SRH
 		buildings = {
 			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
 		}
 		victory_points = {
 			10444 50
