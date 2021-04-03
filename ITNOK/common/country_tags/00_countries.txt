@@ -206,5 +206,5 @@ COR = "countries/Corsica.txt"
 KUR = "countries/Kurdistan.txt"
 TRA = "countries/Transylvania.txt"
 SRH = "countries/SocialistHokkaido.txt"
-
 SFZ = "countries/SuezFreeZone.txt"
+HRE = "countries/HolyRomanEmpire.txt"
