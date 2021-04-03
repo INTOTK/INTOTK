@@ -1,0 +1,24 @@
+state={
+	id=807
+	name="STATE_807"
+	state_category = wasteland
+	provinces={
+		1155 4073 9947 12049
+	}
+	history={
+		owner = SFZ
+		add_core_of = SFZ
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		victory_points = {
+			4073 50
+		}
+		victory_points = {
+			12049 5
+		}
+	manpower=100
+	buildings_max_level_factor=1.000
+}
