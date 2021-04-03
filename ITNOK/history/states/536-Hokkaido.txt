@@ -21,6 +21,8 @@ state={
 			12421 5
 		}
 
+		add_core_of = SRH
+
 	}
 
 	provinces={
