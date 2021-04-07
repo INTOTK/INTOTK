@@ -1,0 +1,21 @@
+ideas = {
+
+	country = {
+		direct_democracy
+			picture = GFX_focus_chi_collaboration_with_the_japanese
+
+			allowed = {
+				tag = SRH
+			}
+			allowed_civil_war = {
+				always = no
+			}
+			removal_cost = -1
+			modifier = {
+					political_power_cost = 1
+					join_faction_tension = 1
+					stability_factor = -0.4
+			}
+	}
+
+}
