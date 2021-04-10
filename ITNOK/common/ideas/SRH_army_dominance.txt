@@ -12,9 +12,9 @@ ideas = {
 			}
 			removal_cost = -1
 			modifier = {
-					refit_speed = 1.1
-					land_equipment_upgrade_xp_cost = 0.9
-					army_leader_cost_factor = 1.2
+					refit_speed = 0.1
+					land_equipment_upgrade_xp_cost = -0.2
+					army_leader_cost_factor = 2
 					army_leader_start_logistics_level  = 2
 					army_leader_start_planning_level = 2
 			}

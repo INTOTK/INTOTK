@@ -13,8 +13,8 @@ ideas = {
 			removal_cost = -1
 			modifier = {
 					join_faction_tension = 1
-					research_speed_factor = 0.8
-					justify_war_goal_time = 2
+					research_speed_factor = -0.2
+					justify_war_goal_time = 3.5
 			}
 	}
 
