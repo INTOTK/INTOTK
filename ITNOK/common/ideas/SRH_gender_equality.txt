@@ -1,0 +1,23 @@
+ideas = {
+
+	country = {
+		SRH_gender_equality
+			picture = GFX_focus_chi_collaboration_with_the_japanese
+
+			allowed = {
+				tag = SRH
+			}
+			allowed_civil_war = {
+				always = no
+			}
+			removal_cost = -1
+			modifier = {
+					stability_factor =
+					female_random_army_leader_chance = 0.45
+					conscription_factor = 1.7
+					female_random_admiral_chance = 0.45
+					stability_factor = 0.95
+			}
+	}
+
+}

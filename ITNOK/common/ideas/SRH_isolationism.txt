@@ -1,7 +1,7 @@
 ideas = {
 
 	country = {
-		direct_democracy
+		SRH_isolationism
 			picture = GFX_focus_chi_collaboration_with_the_japanese
 
 			allowed = {
@@ -12,9 +12,9 @@ ideas = {
 			}
 			removal_cost = -1
 			modifier = {
-					political_power_cost = 1
 					join_faction_tension = 1
-					stability_factor = -0.4
+					research_speed_factor = 0.8
+					justify_war_goal_time = 2
 			}
 	}
 

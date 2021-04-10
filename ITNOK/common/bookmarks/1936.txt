@@ -128,14 +128,14 @@ bookmarks = {
 			history = "JAP_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
-				state_shintoism
-				JAP_zaibatsus
-				JAP_militarism
+				SRH_isolationism
+				SRH_navy_dominance
+				SRH_gender_equality
 			}
 			focuses = {
 				SRH_the_honshu_question
 				SRH_state_of_the_economy
-				JAP_strike_on_the_southern_resource_area
+				SRH_1940_shinkansen_project
 			}
 		}
 		"SOV"={
