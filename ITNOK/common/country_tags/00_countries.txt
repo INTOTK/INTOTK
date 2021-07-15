@@ -169,7 +169,7 @@ SEN = "countries/Senegal.txt"
 GAM = "countries/Gambia.txt"
 WLS = "countries/Wales.txt"
 NGR = "countries/Niger.txt"
-CSA = "countries/CSA.txt"
+CSA = "countries/ConfederateStates.txt"
 USB = "countries/USB.txt"#neutral US bloc during civil war in MTG
 MRT = "countries/Mauritania.txt"
 NMB = "countries/Namibia.txt"
@@ -209,7 +209,6 @@ TRA = "countries/Transylvania.txt"
 
 #New Tags
 
-SFZ = "countries/SuezFreeZone.txt"
 CAL = "countries/California.txt"
 TEX = "countries/Texas.txt"
 DES = "countries/Deseret.txt"
