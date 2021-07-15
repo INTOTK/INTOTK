@@ -1,0 +1,21 @@
+state={
+	id=814
+	name="STATE_814"
+	state_category = city
+	history={
+		add_core_of = KOA
+		add_core_of = JAP
+		add_core_of = SOJ
+		owner = KOA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+	}
+	provinces={
+		1063 3848 6873 6994 9859 9865 12056
+	}
+	manpower=86000
+	buildings_max_level_factor=1.000
+}

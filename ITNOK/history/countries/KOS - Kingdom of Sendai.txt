@@ -1,4 +1,4 @@
-﻿capital = 536
+﻿capital = 7169
 
 # Starting tech
 set_technology = {
@@ -6,15 +6,19 @@ set_technology = {
 }
 
 set_convoys = 20
-add_ideas = {
-	SRH_direct_democracy
-	SRH_isolationism
-	SRH_gender_equality
-	SRH_navy_dominance
-}
 
 1939.1.1 = {
 
+	#generic focuses
+	complete_national_focus = army_effort
+	complete_national_focus = equipment_effort
+	complete_national_focus = motorization_effort
+	complete_national_focus = aviation_effort
+	complete_national_focus = naval_effort
+	complete_national_focus = large_navy
+	complete_national_focus = industrial_effort
+	complete_national_focus = construction_effort
+	complete_national_focus = production_effort
 
 	set_technology = {
 		tech_support = 1
@@ -50,24 +54,24 @@ add_ideas = {
 
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 60
-	fascism = 20
-	communism = 15
-	neutrality = 5
+	democratic = 0
+	fascism = 0
+	communism = 0
+	neutrality = 100
 }
 
 create_country_leader = {
-	name = "Council of 5"
+	name = "SFZ Authority"
 	desc = ""
 	picture = "Portrait_SocialistHokkaido_Isoroku_Yamamoto.dds"
-	ideology = socialism
+	ideology = despotism
 	traits = {
 		#
 	}

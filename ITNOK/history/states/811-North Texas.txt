@@ -1,0 +1,21 @@
+state={
+	id=811
+	name="STATE_811"
+	history={
+		owner = TEX
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = TEX
+
+
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}
+provinces={
+	1738 1809 1827 7780 10588 11772 12570 12627 12642
+}
+}

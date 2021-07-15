@@ -1,0 +1,21 @@
+state={
+	id=808
+	name="STATE_808"
+	history={
+		owner = DES
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = DES
+
+
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}
+provinces={
+	4799 4816 7756 7879 10591 12425
+}
+}
